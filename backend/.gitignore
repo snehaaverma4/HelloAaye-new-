@@ -1,0 +1,12 @@
+# ignore node dependencies
+node_modules/
+
+# ignore environment variables
+.env
+
+# ignore firebase private key
+config/firebaseServiceAccount.json
+
+# ignore OS or editor junk files
+.DS_Store
+*.log

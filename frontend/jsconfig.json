@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "allowJs": true,
+    "checkJs": false,
+    "allowSyntheticDefaultImports": true,
+    "baseUrl": "."
+  },
+  "include": ["app/**/*", "**/*.js", "**/*.jsx"],
+  "exclude": ["node_modules", "src", "public"]
+}
